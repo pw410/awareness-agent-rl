@@ -65,21 +65,4 @@ MIT License — open for research use.
 
 ---
 Citation
-Prathmesh Wathore (2025). Awareness-Based Cognitive Filtering in Reinforcement Learning.
-GitHub Repository.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Yeh FINAL README.md hai — seedha paste karo and commit.
+(to be added after acceptance of paper )
